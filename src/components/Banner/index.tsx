@@ -1,6 +1,7 @@
 import Button from 'components/Button'
 import Ribbon, { RibbonColors, RibbonSizes } from 'components/Ribbon'
 import React from 'react'
+
 import * as S from './styles'
 
 export type BannerProps = {

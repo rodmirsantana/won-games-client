@@ -3,11 +3,11 @@ import {
   Favorite,
   FavoriteBorder
 } from '@styled-icons/material-outlined'
-
-import Ribbon, { RibbonColors, RibbonSizes } from 'components/Ribbon'
 import Button from 'components/Button'
-import * as S from './styles'
+import Ribbon, { RibbonColors, RibbonSizes } from 'components/Ribbon'
 import React from 'react'
+
+import * as S from './styles'
 
 export type GameCardProps = {
   title: string
